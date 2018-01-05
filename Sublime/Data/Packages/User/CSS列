@@ -1,0 +1,20 @@
+
+
+{
+  column-count:4;
+  column-gap:40px;
+  column-rule-style:outset;
+  column-rule-width:10px;
+
+
+  -moz-column-count:4;
+  -moz-column-gap:40px;
+  -moz-column-rule-style:outset;
+  -moz-column-rule-width:10px;
+
+  -webkit-column-count:4;
+  -webkit-column-gap:40px;
+  -webkit-column-rule-style:outset;
+  -webkit-column-rule-width:1px;
+
+}

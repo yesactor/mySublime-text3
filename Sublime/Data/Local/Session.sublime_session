@@ -1,0 +1,2230 @@
+{
+	"folder_history":
+	[
+		"/D/装机/新版thinkphp3.2教程",
+		"/F/wx/demo/飞飞导航器",
+		"/F/wx/XAMPP/htdocs",
+		"/F/wx/XAMPP",
+		"/F/wx/demo/yesactor/img",
+		"/F/wx/demo/yesactor.com",
+		"/D/摆摆/xtd",
+		"/F/wx/demo/TB1na9yLXXXXXc1XXXXXXXXXXXX/phpMyAdmin",
+		"/F/wx/demo/my",
+		"/F/wx/pywebsocket",
+		"/F/wx/微信web开发者工具/项目",
+		"/F/wx/wpy/mywxwpy",
+		"/F/wx/wpy/Parkbud1",
+		"/F/wx/wpy/Parkbud"
+	],
+	"last_version": 3142,
+	"last_window_id": 35,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 730.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pa",
+						"padding"
+					],
+					[
+						"con",
+						"container"
+					],
+					[
+						"wh",
+						"where"
+					],
+					[
+						"admi",
+						"admins"
+					],
+					[
+						"ar",
+						"aria-hidden"
+					],
+					[
+						"ari",
+						"aria-label"
+					],
+					[
+						"a",
+						"a\t<a>"
+					],
+					[
+						"if",
+						"iframe\tHTML/Element"
+					],
+					[
+						"page",
+						"pageSize"
+					],
+					[
+						"ins",
+						"instance"
+					],
+					[
+						"EX",
+						"Exception"
+					],
+					[
+						"t",
+						"think"
+					],
+					[
+						"adm",
+						"admins"
+					],
+					[
+						"u",
+						"url"
+					],
+					[
+						"re",
+						"return"
+					],
+					[
+						"rep",
+						"repassword"
+					],
+					[
+						"in",
+						"input\tTag"
+					],
+					[
+						"inp",
+						"input-group-addon"
+					],
+					[
+						"r",
+						"return"
+					],
+					[
+						"str",
+						"string"
+					],
+					[
+						"che",
+						"checkPassword"
+					],
+					[
+						"log",
+						"logintime"
+					],
+					[
+						"v",
+						"validate"
+					],
+					[
+						"V",
+						"Validate"
+					],
+					[
+						"input-gr",
+						"input-group-addon"
+					],
+					[
+						"nam",
+						"name\tAttr"
+					],
+					[
+						"for",
+						"form-control"
+					],
+					[
+						"va",
+						"value"
+					],
+					[
+						"c",
+						"checkbox"
+					],
+					[
+						"is",
+						"is_null"
+					],
+					[
+						"name",
+						"name"
+					],
+					[
+						"admin",
+						"admin"
+					],
+					[
+						"ad",
+						"admin_pwd2"
+					],
+					[
+						"check",
+						"checkPassword"
+					],
+					[
+						"arr",
+						"array"
+					],
+					[
+						"el",
+						"else"
+					],
+					[
+						"bu",
+						"button\tTag"
+					],
+					[
+						"la",
+						"label\tTag"
+					],
+					[
+						"labe",
+						"label\t<label>"
+					],
+					[
+						"h5",
+						"html5\tSimple HTML5 Boilerplate"
+					],
+					[
+						"CO",
+						"Controller"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"data",
+						"database"
+					],
+					[
+						"pro",
+						"protected"
+					],
+					[
+						"thi",
+						"think"
+					],
+					[
+						"cls",
+						"class"
+					],
+					[
+						"inc",
+						"include"
+					],
+					[
+						"pos",
+						"pos-a\tposition: absolute;"
+					],
+					[
+						"DIS",
+						"display: block;\tProperty"
+					],
+					[
+						"le",
+						"left"
+					],
+					[
+						"cel",
+						"cellpadding"
+					],
+					[
+						"table",
+						"table\tTag"
+					],
+					[
+						"user",
+						"user_name"
+					],
+					[
+						"met",
+						"method\tAttr"
+					],
+					[
+						"an",
+						"action\tAttr"
+					],
+					[
+						"p",
+						"public"
+					],
+					[
+						"http",
+						"http-equiv"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"post",
+						"postData"
+					],
+					[
+						"htm",
+						"html5\tSimple HTML5 Boilerplate"
+					],
+					[
+						"ret",
+						"return"
+					],
+					[
+						"Con",
+						"controller"
+					],
+					[
+						"var",
+						"var_dump"
+					],
+					[
+						"tr",
+						"true"
+					],
+					[
+						"cl",
+						"class"
+					],
+					[
+						"def",
+						"define"
+					],
+					[
+						"html",
+						"htmlspecialchars\tPHPString"
+					],
+					[
+						"em",
+						"email"
+					],
+					[
+						"mysq",
+						"mysql_query"
+					],
+					[
+						"conn",
+						"conn"
+					],
+					[
+						"mysqli",
+						"mysqli_connect"
+					],
+					[
+						"te",
+						"text"
+					],
+					[
+						"st",
+						"style\tAttr"
+					],
+					[
+						"pad",
+						"padding-bottom"
+					],
+					[
+						"bot",
+						"bottom"
+					],
+					[
+						"home",
+						"home_nav"
+					],
+					[
+						"diso",
+						"display: inline-block;\tProperty"
+					],
+					[
+						"ui-b",
+						"ui-button-param"
+					],
+					[
+						"hr",
+						"href"
+					],
+					[
+						"ind",
+						"index"
+					],
+					[
+						"sc",
+						"script"
+					],
+					[
+						"ui",
+						"ui-button"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"ui-",
+						"ui-input"
+					],
+					[
+						"box",
+						"box-sizing"
+					],
+					[
+						"cle",
+						"clear: both;\tProperty"
+					],
+					[
+						"txta",
+						"text-align: center;\tProperty"
+					],
+					[
+						"vid",
+						"video-js.css"
+					],
+					[
+						"ipm",
+						"@import\t@import url(${0});"
+					],
+					[
+						"video-p",
+						"video-play"
+					],
+					[
+						"videoCT",
+						"videoCT.css"
+					],
+					[
+						"imp",
+						"@import\t@import url(${0});"
+					],
+					[
+						"pl",
+						"play-item.mp4"
+					],
+					[
+						"bs",
+						"box-sizing"
+					],
+					[
+						"y",
+						"yesactor.com"
+					],
+					[
+						"scr",
+						"script\tTag"
+					],
+					[
+						"scri",
+						"script\tTag"
+					],
+					[
+						"fon",
+						"font"
+					],
+					[
+						"dis",
+						"display: block;\tProperty"
+					],
+					[
+						"cont",
+						"content"
+					],
+					[
+						"b",
+						"border"
+					],
+					[
+						"ml",
+						"margin-left"
+					],
+					[
+						"se",
+						"search-keyword"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"bo",
+						"border"
+					],
+					[
+						"sef",
+						"searchform"
+					],
+					[
+						"li",
+						"link-ranking"
+					],
+					[
+						"seac",
+						"searchform"
+					],
+					[
+						"sear",
+						"search"
+					],
+					[
+						"fl",
+						"float: left;\tProperty"
+					],
+					[
+						"tson",
+						"transition"
+					],
+					[
+						"ho",
+						"hover"
+					],
+					[
+						"top",
+						"top-blur"
+					],
+					[
+						"dsb",
+						"display: block;\tProperty"
+					],
+					[
+						"top-l",
+						"top-list-wrp"
+					],
+					[
+						"tri",
+						"transition"
+					],
+					[
+						"ca",
+						"calc"
+					],
+					[
+						"header-l",
+						"header-link"
+					],
+					[
+						"z",
+						"z-index"
+					],
+					[
+						"hea",
+						"header"
+					],
+					[
+						"tex-l",
+						"text-align: left;\tProperty"
+					],
+					[
+						"fi",
+						"filter"
+					],
+					[
+						"top-list",
+						"top-list-wrp"
+					],
+					[
+						"trpt",
+						"transparent"
+					],
+					[
+						"btn",
+						"btn_gotop"
+					],
+					[
+						"top-",
+						"top-list"
+					],
+					[
+						"hdl",
+						"header-link"
+					],
+					[
+						"lin",
+						"line-height"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 298.0,
+				"last_filter": "rem",
+				"selected_items":
+				[
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: i",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: #!/usr/bin/env"
+					],
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"pcm",
+						"Package Control: Remove Package"
+					],
+					[
+						"packagec m",
+						"Package Control: Remove Package"
+					],
+					[
+						"cpm",
+						"Package Control: Remove Package"
+					],
+					[
+						"cpi",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package→安装插件"
+					],
+					[
+						"in",
+						"Package Control: Install Package→安装插件"
+					],
+					[
+						"i",
+						"Package Control: Install Package→安装插件"
+					]
+				],
+				"width": 552.0
+			},
+			"console":
+			{
+				"height": 245.0,
+				"history":
+				[
+					"> php think build --module home",
+					"php think build --module Home",
+					"SublimeLinter:computedPATH<source>:",
+					"SublimeLinter: WARNING: jshint deactivated, cannot locate 'jshint'"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/F/wx/XAMPP/htdocs/www/thinkphp5/application/common/model/Admin.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp5/application/index/controller/AdminController.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp5/application/index/controller/IndexController.php",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/phpfmt/message",
+				"/F/wx/XAMPP/htdocs/www/thinkphp5/application/index/view/pagination.html",
+				"/F/wx/XAMPP/htdocs/www/thinkphp5/application/index/view/Admin/index.html",
+				"/F/wx/XAMPP/htdocs/www/thinkphp5/thinkphp/library/think/Collection.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp5/application/index/controller/LoginController.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp5/application/index/view/Admin/add.html",
+				"/F/wx/XAMPP/htdocs/www/thinkphp5/application/common/function.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp5/thinkphp/helper.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp5/application/common/common.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp5/public/index.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp5/application/config.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp5/public/.htaccess",
+				"/F/wx/XAMPP/apache/modules/mod_rewrite.so",
+				"/F/wx/XAMPP/htdocs/www/thinkphp5/application/common/model/function.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp5/application/common.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp5/application/index/view/Admin/edit.html",
+				"/F/wx/demo/my/css/less.less",
+				"/F/wx/XAMPP/htdocs/www/thinkphp5/application/index/view/Login/index.html",
+				"/F/wx/XAMPP/htdocs/www/thinkphp5/application/database.php",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/User/phpfmt.sublime-settings",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/phpfmt/phpfmt.sublime-settings",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/User/Default.sublime-keymap",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/phpfmt/Default.sublime-keymap",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/User/.jsbeautifyrc",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/User/Emmet.sublime-settings",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/Emmet/Emmet.sublime-settings",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/F/wx/XAMPP/htdocs/www/thinkphp5/application/common/validate.php",
+				"/F/wx/XAMPP/htdocs/index.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp5/application/home/controller/Index.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp5/build.php",
+				"/F/wx/XAMPP/htdocs/www/ThinkPHP_3.2/ThinkPHP/ThinkPHP.php",
+				"/D/装机/新版thinkphp3.2教程/01配置/模块访问.txt",
+				"/F/wx/XAMPP/htdocs/www/ThinkPHP_3.2/Application/Home/View/index.html",
+				"/F/wx/XAMPP/htdocs/3.5/Public/system/cj_list_news.html",
+				"/F/wx/XAMPP/htdocs/www/thinkphp5/application/common/config.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp5/runtime/Conf/config.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp5/think",
+				"/F/wx/XAMPP/htdocs/www/thinkphp5/runtime/Data/_cj/bind.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp5/runtime/Install/install.sql",
+				"/F/wx/XAMPP/htdocs/www/thinkphp5/thinkphp/library/think/Model.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp5/application/common/validate/AdminValidate.php",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/phpcbf/phpcbf.sublime-settings",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/DocBlockr/Base File.sublime-settings",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/User/Base File.sublime-settings",
+				"/F/wx/XAMPP/htdocs/www/thinkphp5/application/index/view/admin/index.html",
+				"/F/wx/XAMPP/htdocs/www/ThinkPHP/ThinkPHP.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp/library/think/Cache.php",
+				"/F/wx/XAMPP/htdocs/www/application/config.php",
+				"/F/wx/XAMPP/htdocs/www/application/database.php",
+				"/F/wx/XAMPP/htdocs/www/think",
+				"/F/wx/XAMPP/htdocs/www/thinkphp/convention.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp/helper.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp/library/think/App.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp/library/think/Console.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp/library/think/console/Output.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp/library/think/Db.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp/library/think/db/Connection.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp/library/think/db/connector/Sqlsrv.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp/library/think/db/Query.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp/library/think/Debug.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp/library/think/debug/Console.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp/library/think/debug/Html.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp/library/think/view/driver/Php.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp/tpl/think_exception.tpl",
+				"/F/wx/XAMPP/htdocs/www/thinkphp/library/think/Exception.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp/library/think/exception/Handle.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp/library/think/Route.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp/library/think/Hook.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp/library/think/Lang.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp/library/think/Log.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp/library/think/Response.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp/library/think/log/driver/Socket.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp/library/think/log/driver/File.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp/library/think/Model.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp/library/think/Session.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp/library/think/view/driver/Think.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp/tpl/page_trace.tpl",
+				"/F/wx/XAMPP/htdocs/www/runtime/Install/install.sql",
+				"/F/wx/XAMPP/htdocs/www/README.md",
+				"/F/wx/XAMPP/htdocs/www/application/Common/Admin/function.php",
+				"/F/wx/XAMPP/htdocs/www/application/Common/common.php",
+				"/F/wx/XAMPP/htdocs/www/build.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp/base.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp/console.php",
+				"/F/wx/XAMPP/htdocs/www/thinkphp/phpunit.xml",
+				"/F/wx/XAMPP/htdocs/www/thinkphp/start.php",
+				"/F/wx/XAMPP/htdocs/www/public/router.php",
+				"/F/wx/XAMPP/htdocs/www/application/route.php",
+				"/F/wx/XAMPP/htdocs/www/application/command.php",
+				"/F/wx/XAMPP/htdocs/www/runtime/Conf/config.php",
+				"/F/wx/XAMPP/htdocs/www/runtime/Data/_bibibcms/player.php",
+				"/F/wx/XAMPP/htdocs/www/application/common.php",
+				"/F/wx/XAMPP/htdocs/3.5/Lib/Common/common.php",
+				"/F/wx/XAMPP/htdocs/myphp/Runtime/Conf/config.php",
+				"/F/wx/XAMPP/htdocs/thinkphp/application/config.php",
+				"/F/wx/XAMPP/htdocs/thinkphp/application/database.php",
+				"/F/wx/XAMPP/htdocs/thinkphp/thinkphp/convention.php",
+				"/F/wx/XAMPP/htdocs/thinkphp/public/index.php",
+				"/F/wx/XAMPP/htdocs/myphp/Lib/Conf/config.php",
+				"/F/wx/XAMPP/htdocs/3.5/Lib/ThinkPHP/Tpl/ThinkException.tpl.php",
+				"/F/wx/XAMPP/htdocs/thinkphp/think",
+				"/F/wx/XAMPP/htdocs/myphp/myDB.php",
+				"/F/wx/XAMPP/htdocs/thinkphp_5.0.12_core/thinkphp/convention.php",
+				"/F/wx/XAMPP/htdocs/myphp/3.5/index.php",
+				"/F/wx/XAMPP/htdocs/myphp/Install/install.sql",
+				"/F/wx/XAMPP/htdocs/myphp/Lib/Common/Admin/function.php",
+				"/F/wx/XAMPP/htdocs/myphp/table.php",
+				"/F/wx/XAMPP/htdocs/myphp/myDB_create.php",
+				"/F/wx/XAMPP/htdocs/myphp/Lib/Common/common.php",
+				"/F/wx/XAMPP/htdocs/myphp/3.5/Runtime/Install/install.sql",
+				"/F/wx/XAMPP/htdocs/myphp/db_config.php",
+				"/F/wx/demo/飞飞导航器/Lib/Common/Admin/function.php",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/User/sbc-setting.sublime-settings",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/User/SublimeLinter.sublime-settings",
+				"/F/wx/demo/飞飞导航器/Runtime/Conf/config.php",
+				"/F/wx/demo/飞飞导航器/Tpl/default/Home/index.tpl",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/User/Preferences.sublime-settings",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/F/wx/demo/飞飞导航器/install.php",
+				"/F/wx/demo/yesactor/index.html"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 158.0,
+				"where_history":
+				[
+					"F:\\wx\\XAMPP\\htdocs\\www"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Teacher",
+					"ff_",
+					"checked",
+					"ff_",
+					"，",
+					"u005c",
+					"\\u005c",
+					"\\u002c",
+					"uff0c",
+					"|",
+					"ff_",
+					"validateData",
+					"save",
+					"debug",
+					"ff_"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 67.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 150.0
+			},
+			"output.git":
+			{
+				"height": 138.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"think/collect",
+						"htdocs\\www\\thinkphp5\\thinkphp\\library\\think\\Collection.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 260.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			}
+		},
+		"new_window_width": 1040.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"M",
+						"Mysql"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"la",
+						"layui-col-md-offset3"
+					],
+					[
+						"laui",
+						"layui-col-md5"
+					],
+					[
+						"layui-",
+						"layui-col-md4"
+					],
+					[
+						"as",
+						"assign"
+					],
+					[
+						"layui",
+						"layui-row"
+					],
+					[
+						"max",
+						"max_execution_time"
+					],
+					[
+						"PHP脚本",
+						"PHP脚本超时时间："
+					],
+					[
+						"text-",
+						"text-align"
+					],
+					[
+						"onc",
+						"onclick"
+					],
+					[
+						"sty",
+						"style"
+					],
+					[
+						"tit",
+						"title"
+					],
+					[
+						"getE",
+						"getElementById\tjsDOM"
+					],
+					[
+						"getid",
+						"getElementById\tjsDOM"
+					],
+					[
+						"ur",
+						"urlJump"
+					],
+					[
+						"su",
+						"success"
+					],
+					[
+						"rea",
+						"ready\tjQuery"
+					],
+					[
+						"r",
+						"ready\tdocument.ready - $(function(){})"
+					],
+					[
+						"d",
+						"document"
+					],
+					[
+						"rad",
+						"ready\tjQuery(document).ready"
+					],
+					[
+						"f",
+						"field"
+					],
+					[
+						"up",
+						"updateTime"
+					],
+					[
+						"pa",
+						"param"
+					],
+					[
+						"val",
+						"validate"
+					],
+					[
+						"par",
+						"param"
+					],
+					[
+						"ins",
+						"insert"
+					],
+					[
+						"red",
+						"ready\tjQuery(document).ready"
+					],
+					[
+						"get",
+						"getElementById\tjsDOM"
+					],
+					[
+						"fa",
+						"false"
+					],
+					[
+						"op",
+						"open\tjsWindow"
+					],
+					[
+						"if",
+						"iframe\tTag"
+					],
+					[
+						"stc",
+						"script-src\tHTML/Snippet"
+					],
+					[
+						"lay",
+						"layui-btn"
+					],
+					[
+						"lyui",
+						"layui-btn"
+					],
+					[
+						"a",
+						"a\t<a>"
+					],
+					[
+						"ad",
+						"admin_list"
+					],
+					[
+						"admin",
+						"admin_list"
+					],
+					[
+						"layu",
+						"layui-btn"
+					],
+					[
+						"sub",
+						"submit"
+					],
+					[
+						"sta",
+						"static"
+					],
+					[
+						"el",
+						"else"
+					],
+					[
+						"u",
+						"username"
+					],
+					[
+						"ta",
+						"table"
+					],
+					[
+						"st",
+						"static"
+					],
+					[
+						"p",
+						"protected"
+					],
+					[
+						"na",
+						"namespace"
+					],
+					[
+						"like",
+						"like['remember"
+					],
+					[
+						"is_n",
+						"is_null\tPHP"
+					],
+					[
+						"re",
+						"return"
+					],
+					[
+						"j",
+						"json"
+					],
+					[
+						"var",
+						"var_dump"
+					],
+					[
+						"login",
+						"login"
+					],
+					[
+						"rul",
+						"result"
+					],
+					[
+						"rq",
+						"request"
+					],
+					[
+						"ru",
+						"rule"
+					],
+					[
+						"al",
+						"alphaDash|length:5,20"
+					],
+					[
+						"va",
+						"value"
+					],
+					[
+						"eho",
+						"echo"
+					],
+					[
+						"s",
+						"script\t<script>"
+					],
+					[
+						"req",
+						"request"
+					],
+					[
+						"ar",
+						"array"
+					],
+					[
+						"all",
+						"allowField"
+					],
+					[
+						"V",
+						"Validate"
+					],
+					[
+						"adminId",
+						"adminId"
+					],
+					[
+						"stat",
+						"status"
+					],
+					[
+						"lo",
+						"load"
+					],
+					[
+						"user",
+						"user_update"
+					],
+					[
+						"R",
+						"Request"
+					],
+					[
+						"array",
+						"array\t$… = array (…)"
+					],
+					[
+						"sa",
+						"save"
+					],
+					[
+						"reu",
+						"result"
+					],
+					[
+						"e",
+						"email"
+					],
+					[
+						"CON",
+						"controller"
+					],
+					[
+						"i",
+						"i\t<i>"
+					],
+					[
+						"shad",
+						"shadeClose"
+					],
+					[
+						"te",
+						"template"
+					],
+					[
+						"_",
+						"__DIR__"
+					],
+					[
+						"use",
+						"username"
+					],
+					[
+						"ex",
+						"extends"
+					],
+					[
+						"fo",
+						"footer\tTag"
+					],
+					[
+						"blo",
+						"block"
+					],
+					[
+						"layui-lay",
+						"layui-layout-admin"
+					],
+					[
+						"bl",
+						"block"
+					],
+					[
+						"P",
+						"Public"
+					],
+					[
+						"h5",
+						"html5\tSimple HTML5 Boilerplate"
+					],
+					[
+						"data",
+						"data"
+					],
+					[
+						"sav",
+						"saveAll"
+					],
+					[
+						"adm",
+						"admin_list"
+					],
+					[
+						"T",
+						"Template"
+					],
+					[
+						"load",
+						"__autoload\tPHP"
+					],
+					[
+						"TH",
+						"THINK"
+					],
+					[
+						"isn",
+						"is_null"
+					],
+					[
+						"I",
+						"Index"
+					],
+					[
+						"_p",
+						"__PUBLIC__"
+					],
+					[
+						"sttc",
+						"strict"
+					],
+					[
+						"dsp",
+						"dispatch_jump.tpl"
+					],
+					[
+						"disp",
+						"dispatch_jump.tpl"
+					],
+					[
+						"aim",
+						"anim"
+					],
+					[
+						"scss",
+						"success"
+					],
+					[
+						"ret",
+						"return"
+					],
+					[
+						"wh",
+						"where"
+					],
+					[
+						"w",
+						"where"
+					],
+					[
+						"defau",
+						"default_action"
+					],
+					[
+						"def",
+						"define"
+					],
+					[
+						"layib",
+						"layui-body"
+					],
+					[
+						"name",
+						"name=\"title"
+					],
+					[
+						"edit",
+						"edit.html"
+					],
+					[
+						"pr",
+						"protected"
+					],
+					[
+						"l",
+						"logintime"
+					],
+					[
+						"post",
+						"postData"
+					],
+					[
+						"time",
+						"time\tPHPDate"
+					],
+					[
+						"inpt",
+						"inputb\tinput - button"
+					],
+					[
+						"ue",
+						"update"
+					],
+					[
+						"th",
+						"th\tTag"
+					],
+					[
+						"layub",
+						"layui-btn"
+					],
+					[
+						"doc",
+						"document\tjsWindow"
+					],
+					[
+						"nam",
+						"name=\"nav"
+					],
+					[
+						"layb",
+						"lay-submit"
+					],
+					[
+						"lay-b",
+						"layui-btn"
+					],
+					[
+						"em",
+						"email"
+					],
+					[
+						"layui-b",
+						"layui-input-block"
+					],
+					[
+						"layui-i",
+						"layui-input-block"
+					],
+					[
+						"layuinp",
+						"layui-input-block"
+					],
+					[
+						"layuina",
+						"layui-nav-item"
+					],
+					[
+						"in",
+						"input\tTag"
+					],
+					[
+						"col",
+						"controller"
+					],
+					[
+						"A",
+						"Admin"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/F/wx/XAMPP/htdocs/www/tp5/application/route.php",
+					"settings":
+					{
+						"buffer_size": 1245,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/F/wx/XAMPP/htdocs/www/tp5/application/Index/controller/CjController.php",
+					"settings":
+					{
+						"buffer_size": 6353,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/F/wx/XAMPP/htdocs/www/tp5/application/common/model/Cj.php",
+					"settings":
+					{
+						"buffer_size": 28227,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/F/wx/XAMPP/htdocs/www/tp5/public/mb/layout.tpl",
+					"settings":
+					{
+						"buffer_size": 634,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/F/wx/XAMPP/htdocs/www/tp5/application/Index/controller/ShowsetController.php",
+					"settings":
+					{
+						"buffer_size": 986,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/F/wx/XAMPP/htdocs/www/tp5/public/mb/show.tpl",
+					"settings":
+					{
+						"buffer_size": 543,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/F/wx/XAMPP/htdocs/www/tp5/public/static/layui/layermsg.js",
+					"settings":
+					{
+						"buffer_size": 1444,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/F/wx/XAMPP/htdocs/www/tp5/public/mb/cj_add.tpl",
+					"settings":
+					{
+						"buffer_size": 2986,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 184.0,
+				"last_filter": "PHP Code Sniffer: ",
+				"selected_items":
+				[
+					[
+						"PHP Code Sniffer: ",
+						"PHP Code Sniffer: Sniff this file"
+					],
+					[
+						"romv",
+						"Package Control: Remove Package"
+					],
+					[
+						"G",
+						"Git: Open Modified Files"
+					],
+					[
+						"i",
+						"Package Control: Install Package"
+					],
+					[
+						"mo",
+						"Package Control: Remove Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"mov",
+						"Package Control: Remove Package"
+					],
+					[
+						"move",
+						"Package Control: Remove Package"
+					],
+					[
+						"I",
+						"Package Control: Install Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: i",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: #!/usr/bin/env"
+					],
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"pcm",
+						"Package Control: Remove Package"
+					],
+					[
+						"packagec m",
+						"Package Control: Remove Package"
+					],
+					[
+						"cpm",
+						"Package Control: Remove Package"
+					],
+					[
+						"cpi",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package→安装插件"
+					],
+					[
+						"in",
+						"Package Control: Install Package→安装插件"
+					]
+				],
+				"width": 592.0
+			},
+			"console":
+			{
+				"height": 137.0,
+				"history":
+				[
+					">php",
+					"[cmd]:",
+					"cmd",
+					"php -v",
+					"php think make:controller app\\index\\controller\\Blog",
+					"['git','help']",
+					"['git','remote']",
+					"['git','remote','-v',#]",
+					"git remote -v #",
+					"['git','remote -v',#]",
+					" ['git','status -s']",
+					" 'git','status -s'",
+					"[ git status -s]",
+					"['git','add','README.md']",
+					"git@github.com:yesactor/git-yesactor.git",
+					"git remote",
+					"php",
+					"> php think build --module home",
+					"php think build --module Home",
+					"SublimeLinter:computedPATH<source>:",
+					"SublimeLinter: WARNING: jshint deactivated, cannot locate 'jshint'"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/F/wx/XAMPP/htdocs",
+				"/F/wx/XAMPP/htdocs/webalizer",
+				"/F/wx/XAMPP/htdocs/www",
+				"/F/wx/XAMPP/htdocs/www/tp5",
+				"/F/wx/XAMPP/htdocs/www/tp5/application",
+				"/F/wx/XAMPP/htdocs/www/tp5/public",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/mb",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/static"
+			],
+			"file_history":
+			[
+				"/F/wx/XAMPP/htdocs/www/tp5/application/config.php",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/mb/cj_list.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/mb/show.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/thinkphp/library/think/db/connector/Mysql.php",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/mb/Admin_add.tpl",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/User/Preferences.sublime-settings",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/mb/saveall.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/application/Index/controller/ShowsetController.php",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/mb/system_data.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/mb/menu.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/application/route.php",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/mb/left.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/static/layui/layermsg.js",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/mb/content.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/mb/index.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/application/common.php",
+				"/F/wx/XAMPP/htdocs/www/tp5/runtime/Install/install.sql",
+				"/F/wx/XAMPP/htdocs/www/tp5/application/Index/controller/AdminController.php",
+				"/F/wx/XAMPP/htdocs/www/tp5/application/Index/controller/ShowConteoller.php",
+				"/F/wx/XAMPP/htdocs/www/tp5/application/Index/controller/ShowSetConteoller.php",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/mb/admin_list.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/application/Index/controller/CjController.php",
+				"/F/wx/XAMPP/htdocs/www/tp5/application/common/model/Cj.php",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/static/layui/css/jymp.css",
+				"/F/wx/XAMPP/htdocs/www/tp5/thinkphp/tpl/default_jump.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/thinkphp/tpl/dispatch_jump.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/application/Index/controller/BlogController.php",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/mb/admin_add.html",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/index.php",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/mb/layout.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/template/admin_add.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/thinkphp/library/traits/controller/Jump.php",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/template/admin_list.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/application/common/model/Admin.php",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/template/layout.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/application/Index/config.php",
+				"/F/wx/XAMPP/htdocs/www/tp5/application/Index/common.php",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/template/loging.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/application/Index/validate/User.php",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/template/menu.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/template/left.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/template/saveall.html",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/template/adminlist.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/.htaccess",
+				"/F/wx/XAMPP/htdocs/www/tp5/application/Index/controller/LoginController.php",
+				"/F/wx/XAMPP/htdocs/www/tp5/application/Index/model/Login.php",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/User/Base File.sublime-settings",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/User/PHP.sublime-settings",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/User/phpcs.sublime-settings",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/User/phpcbf.sublime-settings",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/phpcbf/phpcbf.sublime-settings",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/Phpcs/phpcs.sublime-settings",
+				"/c/users/admini~1/appdata/local/temp/tmpl8irh5.txt",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/phpfmt/Default.sublime-keymap",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/phpcbf/Default (Windows).sublime-keymap",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/User/JSON (Sublime).sublime-settings",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/F/wx/XAMPP/htdocs/www/tp5/application/Index/model/Admin.php",
+				"/F/wx/XAMPP/htdocs/www/tp5/application/Index/model/User.php",
+				"/F/wx/XAMPP/htdocs/www/tp5/application/Index/controller/BaseController.php",
+				"/F/wx/XAMPP/htdocs/www/tp5/application/database.php",
+				"/F/wx/XAMPP/htdocs/www/tp5/application/Index/validate/UserValidate.php",
+				"/F/wx/XAMPP/htdocs/www/tp5/application/Index/controller/IndexController.php",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/User/sbc-setting.sublime-settings",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/Better Completion/sbc-setting.sublime-settings",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/Phpcs/Default (Windows).sublime-keymap",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/User/Emmet.sublime-settings",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/User/SublimeLinter.sublime-settings",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/GitGutter/GitGutter.sublime-settings",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/GitGutter/Default (Windows).sublime-keymap",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/User/Git.sublime-settings",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/Emmet/Emmet.sublime-settings",
+				"/F/wx/XAMPP/htdocs/www/tp5/application/Index/model/ErrorController.action.php",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/User/GitGutter.sublime-settings",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/Alignment/Base File.sublime-settings",
+				"/F/wx/XAMPP/htdocs/www/tp5/thinkphp/base.php",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/sublime-text-git/Git.sublime-settings",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/template/user_update.tpl",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/Git/Git.sublime-settings",
+				"/F/wx/XAMPP/htdocs/www/tp5/.gitignore",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/template/index.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/CONTRIBUTING.md",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/User/phpfmt.sublime-settings",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/phpfmt/phpfmt.sublime-settings",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/template/saveall.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/template/show.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/application/Index/validate/AdminValidate.php",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/template/user_add.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/template/content.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/template/add.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/template/install.html",
+				"/D/MyDownloads/Download/Sublime Text 3.3142 x64/Data/Packages/User/pho.sublime-build",
+				"/F/wx/XAMPP/htdocs/www/tp5/application/Index/view/content.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/application/Index/view/layout.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/application/Index/view/adminlist.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/application/Index/view/add.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/application/Index/view/index.tpl",
+				"/F/wx/XAMPP/htdocs/3.5/Lib/Lib/Model/NavModel.class.php",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/Template/system/layout.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/system/layout.tpl",
+				"/F/wx/XAMPP/htdocs/index.php",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/system/login.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/thinkphp/tpl/define_jump.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/thinkphp/library/think/Response.php",
+				"/F/wx/XAMPP/htdocs/www/tp5/thinkphp/library/think/exception/HttpResponseException.php",
+				"/F/wx/XAMPP/htdocs/3.5/Lib/ThinkPHP/Vendor/Ftp/Ftp.php",
+				"/F/wx/XAMPP/htdocs/www/tp5/application/common/functions.php",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/system/cj_list.html",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/system/cj_show_vod.html",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/system/cj_time_win.html",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/system/cj_time_wait.html",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/system/cj_list_scenario.html",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/system/cj_list_user.html",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/system/cj_list_vod.html",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/system/cj_setbind.html",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/system/cj_show_news.html",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/system/cj_list_news.html",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/system/cj_list_forum.html",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/system/add.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/system/menu.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/application/Index/controller/CaiJiController.php",
+				"/F/wx/XAMPP/htdocs/www/tp5/application/common/model/CaiJi.php",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/system/left.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/public/system/index.tpl",
+				"/F/wx/XAMPP/htdocs/www/tp5/application/Index/controller/msgConteoller.php",
+				"/F/wx/XAMPP/htdocs/www/tp5/runtime/log/201712/13.log"
+			],
+			"find":
+			{
+				"height": 25.0
+			},
+			"find_in_files":
+			{
+				"height": 158.0,
+				"where_history":
+				[
+					"F:\\wx\\XAMPP\\htdocs\\www"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					":'",
+					"right",
+					"left",
+					"id=\"jump\"",
+					"./Public/system/",
+					"admin_",
+					"feifei",
+					"ff",
+					"feifei",
+					"ff",
+					"feifei",
+					"ff",
+					"feifei",
+					"ff",
+					"FEIFEI",
+					"ff",
+					"bibib",
+					"feifei",
+					"feifeicms",
+					"config",
+					"ff_",
+					"user",
+					"ff_",
+					"teacher",
+					"jumpUrl",
+					"ff_",
+					"Teacher",
+					"ff_",
+					"checked",
+					"ff_",
+					"，",
+					"u005c",
+					"\\u005c",
+					"\\u002c",
+					"uff0c",
+					"|",
+					"ff_",
+					"validateData",
+					"save",
+					"debug",
+					"ff_"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "F:\\wx\\XAMPP\\htdocs"
+				},
+				{
+					"path": "D:\\装机\\新版thinkphp3.2教程"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/F/wx/XAMPP/htdocs/www/tp5/application/route.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1245,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1208,
+										1208
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 300.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/F/wx/XAMPP/htdocs/www/tp5/application/Index/controller/CjController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6353,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1009,
+										1009
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 450.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/F/wx/XAMPP/htdocs/www/tp5/application/common/model/Cj.php",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 28227,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										321,
+										315
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 180.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/F/wx/XAMPP/htdocs/www/tp5/public/mb/layout.tpl",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 634,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										375,
+										375
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 4,
+							"file": "/F/wx/XAMPP/htdocs/www/tp5/application/Index/controller/ShowsetController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 986,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										426,
+										426
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 122.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/F/wx/XAMPP/htdocs/www/tp5/public/mb/show.tpl",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 543,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										262,
+										262
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 90.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/F/wx/XAMPP/htdocs/www/tp5/public/static/layui/layermsg.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1444,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										376,
+										376
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 90.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/F/wx/XAMPP/htdocs/www/tp5/public/mb/cj_add.tpl",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2986,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										900,
+										900
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 315.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 67.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						0,
+						1,
+						1,
+						2
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.517130225706,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 126.0
+			},
+			"output.find_results":
+			{
+				"height": 150.0
+			},
+			"output.git":
+			{
+				"height": 138.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 126.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-32000,-32000,-1,-1,841,662,52,1718",
+			"project": "",
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"response",
+						"htdocs\\www\\tp5\\thinkphp\\library\\think\\Response.php"
+					],
+					[
+						"",
+						"htdocs\\www\\tp5\\public\\system\\layout.tpl"
+					],
+					[
+						"template",
+						"htdocs\\www\\thinkphp5\\thinkphp\\library\\think\\Template.php"
+					],
+					[
+						"error",
+						"htdocs\\www\\thinkphp5\\thinkphp\\library\\think\\Error.php"
+					],
+					[
+						"j",
+						"htdocs\\www\\thinkphp5\\thinkphp\\library\\traits\\controller\\Jump.php"
+					],
+					[
+						"jump",
+						"htdocs\\www\\thinkphp5\\thinkphp\\library\\traits\\controller\\Jump.php"
+					],
+					[
+						"think/collect",
+						"htdocs\\www\\thinkphp5\\thinkphp\\library\\think\\Collection.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 1,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 259.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			},
+			"window_id": 28,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

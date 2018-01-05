@@ -1,0 +1,6 @@
+{
+ "align_indent": false,
+ "alignment_chars": ["=",":"],
+ "alignment_space_chars": [
+  ":","{","}","="]
+}

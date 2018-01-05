@@ -1,0 +1,83 @@
+[
+  {
+    "keys": ["alt+space+T"],
+    "command": "auto_complete"
+  },
+  {
+    "keys": ["alt+space"],
+    "command": "replace_completion_with_auto_complete",
+    "context": [
+    {
+      "key": "last_command",
+      "operator": "equal",
+      "operand": "insert_best_completion"
+    },
+    {
+      "key": "auto_complete_visible",
+      "operator": "equal",
+      "operand": false
+    },
+    {
+      "key": "setting.tab_completion",
+      "operator": "equal",
+      "operand": true
+    }]
+  },
+  {
+    "keys": ["ctrl+alt+d"],
+    "command": "goto_definition"
+  },
+  {
+    "keys": ["ctrl+c"],
+    "command": "copy"
+  },
+  {
+    "keys": ["ctrl+v"],
+    "command": "paste"
+  },
+
+  {
+    "keys": ["ctrl+shift+c"],
+    "command": "copy_path"
+  },
+  {
+    "keys": ["ctrl+F11"],
+    "command": "fmt_now"
+  },
+  {
+    "keys": ["ctrl+alt+1"],
+    "command": "alignment"
+  },
+  {
+
+    "keys": ["ctrl+alt+w"],
+    "command": "php_cbf"
+  },
+
+
+
+  //chrome
+  {
+    "keys": ["ctrl+home"],
+    "command": "side_bar_files_open_with",
+    "args":
+    {
+      "paths": [],
+      "application": "D:\\360安全浏览器\\360Chrome\\Chrome\\Application\\360Chrome.exe",
+      "extensions": ".*"
+    }
+  },
+  //chrome2
+  {
+    "keys": ["alt+home"],
+    "command": "side_bar_files_open_with",
+    "args":
+    {
+      "paths": [],
+      "application": "D:\\360Downloads\\Mozilla Firefox\\firefox.exe",
+      "extensions": ".*"
+    }
+  },
+
+
+]

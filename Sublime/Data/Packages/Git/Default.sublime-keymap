@@ -1,0 +1,6 @@
+[
+	{"keys": ["enter"], "command": "git_goto_commit",
+	 "context": [{"key": "selector", "operand": "text.git-blame"}]},
+	{"keys": ["enter"], "command": "git_goto_commit",
+	 "context": [{"key": "selector", "operand": "text.git-graph"}]}
+]

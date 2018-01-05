@@ -1,0 +1,53 @@
+{
+	"auto_upgrade": false,
+	"auto_upgrade_ignore":
+	[
+	],
+	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Align Arguments",
+		"Alignment",
+		"All Autocomplete",
+		"Better Completion",
+		"ColorPicker",
+		"Console API Snippets (JavaScript)",
+		"ConvertToUTF8",
+		"CSSLint",
+		"Default",
+		"DeleteBlankLines",
+		"DocBlockr",
+		"Emmet",
+		"ExportHtml",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"IMESupport",
+		"jQuery",
+		"LESS",
+		"Less2Css",
+		"Markdown Preview",
+		"Material Theme",
+		"Nil-Theme",
+		"Package Control",
+		"Phpcs",
+		"phpfmt",
+		"PyV8",
+		"QuoteHTML",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"SublimeLinter-phpmd",
+		"SyncedSidebarBg",
+		"Terminal",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"ZZZ"
+	]
+}

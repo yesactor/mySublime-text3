@@ -1,0 +1,13 @@
+[
+{
+
+    "version": 1,
+    "php_bin": "F:/wx/XAMPP/php.exe",
+    "format_on_save": false,
+    "psr1": true,
+    "psr1_naming": true,
+    "psr2": true
+}
+
+
+]

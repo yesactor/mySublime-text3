@@ -1,0 +1,10 @@
+[
+{
+  "keys": ["ctrl+x+c"],
+  "command": "convert_to_utf8",
+  "args":
+  {
+    "encoding": "GBK",
+    "stamp": "0"
+  }
+}]
